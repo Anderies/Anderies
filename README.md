@@ -46,4 +46,16 @@ Here are a few areas of my published work and research interests (based on gener
 
 ### 📊 GitHub Stats
 
-[![Anderies's GitHub Stats](
+[![Anderies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderies&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderies&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤝 Connect with Me
+
+* **Email:** [Your Professional Email Address] (e.g., anderies.[your-domain]@binus.ac.id or your personal professional email)
+* **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/your-linkedin-profile/) (Replace with your actual LinkedIn URL)
+* **BINUS Scholar Profile:** [https://scholar.binus.ac.id/lecturer/D6657/anderies-beng-skom-mkom/](https://scholar.binus.ac.id/lecturer/D6657/anderies-beng-skom-mkom/) (Confirm this is your exact profile and link)
+* **Personal Website/Portfolio:** [https://anderies.web.app/](https://anderies.web.app/) (A personal website was found, confirm if this is yours and link it!)
+
+---
