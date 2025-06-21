@@ -56,17 +56,13 @@ Here are a few areas of my published work and research interests (based on gener
 
 ---
 
-### ✍️ Random Dev Quote
-https://raw.githubusercontent.com/anderies/anderies/output/pacman-contribution-graph-dark.svg
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anderies/anderies/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anderies/anderies/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anderies/anderies/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
