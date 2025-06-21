@@ -21,13 +21,31 @@ I believe in fostering a dynamic learning environment and bridging the gap betwe
 
 ---
 
+### Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+</div>
+
+###
+
+---
+
 ### 🚀 My Expertise & Interests
 
 * **Teaching & Mentoring:** Object-Oriented Programming, Software Engineering, Cloud Infrastructure, Research Methodology in Computer Science.
 * **Artificial Intelligence:** Deep Learning, Machine Learning, Computer Vision, AI in Game Design.
 * **Software Development:** Mobile Application Development, Web Application Development, Service-Oriented Architecture, System Design.
-* **Programming Languages:** Python, JavaScript, Java, C/C++ (based on search results, adjust as needed).
-* **Tools & Technologies:** (Add specific frameworks/libraries you use, e.g., TensorFlow, PyTorch, React, Node.js, Unity, etc.)
 
 ---
 
@@ -62,24 +80,7 @@ Here are a few areas of my published work and research interests (based on gener
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anderies/anderies/output/pacman-contribution-graph.svg">
 </picture>
 
-### Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-</div>
-
-###
-
+---
 
 ### 🤝 Connect with Me
 
