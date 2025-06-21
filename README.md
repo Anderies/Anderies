@@ -45,14 +45,17 @@ Here are a few areas of my published work and research interests (based on gener
 ---
 
 ### 📊 GitHub Stats
-
-[![Anderies's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderies&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderies&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=anderies&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=anderies&theme=default&hide_border=false)
 
 ---
 
-` `
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
 
 ### 🤝 Connect with Me
 
