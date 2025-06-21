@@ -84,7 +84,7 @@ Here are a few areas of my published work and research interests (based on gener
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/your-linkedin-profile/) (Replace with your actual LinkedIn URL)
-* **BINUS Scholar Profile:** [https://scholar.binus.ac.id/lecturer/D6657/anderies-beng-skom-mkom/](https://scholar.binus.ac.id/lecturer/D6657/anderies-beng-skom-mkom/) (Confirm this is your exact profile and link)
+* **LinkedIn:** [https://www.linkedin.com/in/anderies-notanto/]
+* **BINUS Scholar Profile:** [https://scholar.binus.ac.id/lecturer/D6657/anderies-beng-skom-mkom/](https://scholar.binus.ac.id/lecturer/D6657/anderies-beng-skom-mkom/) 
 
 ---
