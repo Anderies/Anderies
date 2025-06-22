@@ -13,12 +13,15 @@
 
 ### 👨‍💻 About Me
 
-As a **Lecturer in Computer Science** at **BINUS University** and part of the **Research Innovation Lab**, I bring a blend of academic rigor and practical industry experience to the fields of software development and artificial intelligence. My background includes developing mobile and web applications with a focus on service-oriented architectures.
 
-Currently, my primary focus in research and teaching revolves around **Artificial Intelligence**, particularly in **Game Design** and **Software Design**. I am passionate about exploring how AI can innovate and enhance interactive experiences and robust software systems. I've also actively published international articles, contributing to the body of knowledge in computer vision, deep learning, and embedded applications.
+ * Bachelor of Engineering and Computer Science from Esa Unggul University and Nanjing Xiaozhuang University <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.5.0/flags/4x3/id.svg" height="0" alt="javascript logo"  />
 
-I believe in fostering a dynamic learning environment and bridging the gap between theoretical concepts and real-world application.
+ * Master of Computer Science from BINUS University 
 
+ * Currently Compsci Lecturer and Research Innovation Lab Officer at BINUS University
+ * Focus on Computer Intelligence and Software Engineering Areas
+ * Solid Working Background in Mobile and Web Development
+ * FDP and Municipal Government Scholarship Awardee
 ---
 
 ### Tech Stack
